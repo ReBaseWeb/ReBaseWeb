@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Ali]()!
 
-I'm a full stack developer based in Dubai, UAE specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a front end developer based in Dubai, UAE specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences. ✨
 
